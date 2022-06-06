@@ -1,5 +1,6 @@
 # photo-album
-includes all albums and photos.
+
+Includes all albums and photos.
 
 
 # Steps:
