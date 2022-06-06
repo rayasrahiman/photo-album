@@ -20,6 +20,8 @@ npm start
 ```
 
 #
-redirect to localhost link.
+Redirect to localhost link.
 Scan the QR code (by default the connection will be set to LAN, if LAN does'nt work switch to TUNNEL and scan the QR Code once again).
-Happy coding
+
+#
+Happy coding.
